@@ -1,0 +1,34 @@
+Please refer to :
+
+http://homepages.iitb.ac.in/~kedar.tatwawadi/graphics/assignment2/
+
+for the code documentation and report.
+
+
+Implemented by:
+
+Ayesha Mudassir [09007014]
+Kedar Tatwawadi [09D07022]
+
+
+References:
+
+References from assignment1:
+
+GLUT: http://www.glprogramming.com/red/chapter08.html
+FileReading: http://www.cplusplus.com/reference/clibrary/cstring/strtok/
+FileReading: http://www.cplusplus.com/reference/iostream/istream/getline/
+Color Values: http://cloford.com/resources/colours/500col.htm
+Clipper: http://www.cse.iitb.ac.in/~paragc/teaching/2012/cs675/ [Clipping lecture notes]
+Line Rasterizer: http://www.cse.iitb.ac.in/~paragc/teaching/2012/cs675/demonotes.shtml#bresenham
+All integer Bresenham: http://homepage.smc.edu/kennedy_john/BRESENL.PDF
+FloodFill: http://en.wikipedia.org/wiki/Flood_fill
+ScanLine Fill: http://lodev.org/cgtutor/floodfill.html
+
+References for assignment2:
+
+3D clipping:http://www.ugrad.cs.ubc.ca/~cs314/notes/clip3d.html
+
+
+
+
